@@ -115,3 +115,7 @@ The models achieve the following results on the test set:
 CNN Model (Epileptic vs Non-Epileptic): Accuracy, Precision, Recall, and F1-Score.
 CNN Model (Epileptic vs All): Performance metrics for a more challenging multi-class classification task.
 BiLSTM Model: Similar metrics, providing a comparison between CNN and LSTM-based approaches.
+
+
+If you had any question feel free to contact me through my email:
+    amirhosseinnoorozi@gmail.com
